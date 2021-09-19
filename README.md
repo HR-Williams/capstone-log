@@ -9,3 +9,4 @@
 #### Saturday, 09/18
 * 8:07 learning more how to use API's with react
 * 9:24 continue with learning APIs and react and experimenting with Spotify developer API console
+* 11:09 continue working on samplre react spotify project from tutorial
