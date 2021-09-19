@@ -8,4 +8,4 @@
 * 7:23 return to sample project
 #### Saturday, 09/18
 * 8:07 learning more how to use API's with react
-ß
+* 9:24 continue with learning APIs and react and experimenting with Spotify developer API console
