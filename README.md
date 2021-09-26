@@ -12,4 +12,5 @@
 * 11:09 continue working on sample react spotify project from tutorial
 
 ### Saturday, 9/18
-* 4pm -6pm Do a Chart.js tuturial project in vanilla js
+* 4pm Do a Chart.js tuturial project in vanilla js
+* 6:45 pm Start a tuturial project for chartjs in react
