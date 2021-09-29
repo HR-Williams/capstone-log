@@ -11,6 +11,16 @@
 * 9:24 continue with learning APIs and react and experimenting with Spotify developer API console
 * 11:09 continue working on sample react spotify project from tutorial
 
-### Saturday, 9/18
+### Saturday, 9/25
 * 4pm Do a Chart.js tuturial project in vanilla js
 * 6:45 pm Start a tuturial project for chartjs in react
+
+### Sunday, 9-26
+* 9:45am-1pm spotify-api practice project
+* 2pm - 5pm work on spotify-api practice project
+
+### Monday, 9-27
+* 6:15-9pm spotify-api practice project
+
+### Tuesday, 9-28
+* 6:15-9pm spotify-api practice project
