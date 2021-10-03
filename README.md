@@ -24,3 +24,9 @@
 
 ### Tuesday, 9-28
 * 6:15-9pm spotify-api practice project
+
+### Wednesday, 9-29
+* 5-6pm built out app
+
+### Saturday 10-2
+* 5:30pm-11:59 pm built out app, including research on hooks and other research
