@@ -30,3 +30,10 @@
 
 ### Saturday 10-2
 * 5:30pm-11:59 pm built out app, including research on hooks and other research
+
+### Sunday 10-3
+* 9:30am -1:00pm built out app, stored searches in state with hooks
+* 2pm-4:45pm built out app, mostly working on how to get specific data from api returns
+
+### Monday 10-4
+* 1pm-5pm built out app, mostly working more with useState hooks
