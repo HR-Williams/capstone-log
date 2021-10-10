@@ -37,3 +37,15 @@
 
 ### Monday 10-4
 * 1pm-5pm built out app, mostly working more with useState hooks
+
+### Tuesday 10-5
+* 1-9pm built out app
+
+### Wed 10-6
+* 1-9pm built out app
+
+### Thursday 10-7
+* 1-5pm built out app
+
+### Saturday 10-9
+* 2-11:59pm tried to style
